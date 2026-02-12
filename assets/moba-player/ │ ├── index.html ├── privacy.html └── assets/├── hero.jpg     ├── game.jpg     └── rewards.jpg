@@ -1,0 +1,8 @@
+moba-player/
+│
+├── index.html
+├── privacy.html
+└── assets/
+    ├── hero.jpg
+    ├── game.jpg
+    └── rewards.jpg
